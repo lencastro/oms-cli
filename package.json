@@ -1,0 +1,26 @@
+{
+  "name": "@oms/order-management-service",
+  "version": "1.0.0",
+  "description": "Order Management Service",
+  "main": "src/index.js",
+  "bin": {
+    "@oms/order-management-service": "bin/order-management-service",
+    "order-management-service": "bin/order-management-service",
+    "oms": "bin/order-management-service"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "order-management-service-cli"
+  ],
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^8.1.0",
+    "esm": "^3.2.25",
+    "inquirer": "^8.1.2"
+  }
+}
