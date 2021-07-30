@@ -12,7 +12,6 @@ _This is portable CLI for calling REST based API and perform GET / POST operatio
 
 ## In Command Prompt / Terminal (1)
 
-Go into the root directory :
 
 > npm i
 
@@ -27,7 +26,7 @@ Go into the backend directory :
 
 # After Installation
 
-Go into the root directory :
+
 > npm link
 >
 > oms
