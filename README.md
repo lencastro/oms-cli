@@ -26,6 +26,7 @@ Go into the backend directory :
 
 # After Installation
 
+## In Command Prompt / Terminal (1)
 
 > npm link
 >
