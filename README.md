@@ -12,7 +12,6 @@ _This is portable CLI for calling REST based API and perform GET / POST operatio
 
 ## In Command Prompt / Terminal (1)
 
-Go into the root directory :
 
 > npm i
 
@@ -42,7 +41,8 @@ _To run the test cases with coverage report in HTML inside __coverage__ folder_
 
 # After Installation
 
-Go into the root directory :
+## In Command Prompt / Terminal (1)
+
 > npm link
 >
 > oms
