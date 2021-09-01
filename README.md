@@ -103,3 +103,4 @@ _After execution, specific order updated/added in orders.json file which is pres
 Example :
 > oms create orders -json '{\"orderId\":14, \"name\":\"headphone\", \"productId\":\"A002\", \"count\":1}'
 
+_Note: open the README.md file in VSCode and copy the above command_
