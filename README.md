@@ -25,12 +25,29 @@ Go into the backend directory :
 > npm start
 
 
+## Unit testing
+
+> npm test
+
+_To run the unit test cases_
+
+> npm test:report
+
+_To run the unit test cases with coverage report_
+
+> npm test:cover
+
+_To run the test cases with coverage report in HTML inside __coverage__ folder_
+
+
 # After Installation
 
 Go into the root directory :
 > npm link
 >
 > oms
+
+_It should work or try <npm link --force>_
 
 # Command Usage
 

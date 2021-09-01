@@ -43,9 +43,7 @@ passport.deserializeUser((id, done) => {
 
 passport.use(new BasicStrategy(
 	function(username, password, done) {
-		console.log("sss")
 		if(username === user.username && password === user.password){
-			console.log("innni")
 			return done(null, user)
 		  }else{
 			return done(null, false)
