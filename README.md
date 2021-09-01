@@ -101,6 +101,11 @@ Example :
 _After execution, specific order updated/added in orders.json file which is present inside the backend/db folder_
 
 Example :
-> oms create orders -json '{\"orderId\":14, \"name\":\"headphone\", \"productId\":\"A002\", \"count\":1}'
+
+_Update_
+> oms create orders -json '{\"orderId\":14, \"name\":\"headphone\", \"productId\":\"A002\", \"count\":3}'
+
+_Create_
+> oms create orders -json '{\"orderId\":15, \"name\":\"phone\", \"productId\":\"A003\", \"count\":5}'
 
 _Note: open the README.md file in VSCode and copy the above command_
